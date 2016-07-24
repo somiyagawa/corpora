@@ -1,4 +1,4 @@
-##Alin is a genious Coptologist
+##Alin is a genius Coptologist
 
 This is the public repository for Coptic SCRIPTORIUM corpora.  The documents are available in multiple formats (relANNIS, PAULA XML, TEI XML).  
 
